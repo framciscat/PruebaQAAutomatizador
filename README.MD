@@ -23,7 +23,7 @@ Para llevar a cabo esta actividad, se utilizaron dos herramientas para diferente
 
 + **Paso 2:** Al dirigirse al archivo pom.xml se puede verificar los framework instalados para dicho proyecto.
 
-![Alt text](image.png)
+![Alt text](/images/image.png)
 
 + **Paso 3:**  En el directorio del proyecto, se encuentra las carpetas 'src/test/java' que contendran los package con los archivos principales de las pruebas de automatización.
 + Assets contendrá una clase que controla los diversos drivers de navegadores que se pueden utilizar para las pruebas, tales como Chrome, Firefox y Edge.
@@ -49,7 +49,7 @@ Para llevar a cabo esta actividad, se utilizaron dos herramientas para diferente
 + **Paso 2:** Ya dentro de Postman, se podrá observar el nombre de la colección "API CMF", la cual contiene dos request para cada endpoint "Dolar año anterior" y "Euro día actual".
 ![Alt text](/images/image-4.png)
 + **Paso 3:** A nivel de colección, en el apartado de 'Authorization' se podrá observar que se ingresó la Api Key para tener acceso a las API de la Comisión del Mercado Financiero. 
-![Alt text](image-5.png)
+![Alt text](/images/image-5.png)
 
 + **Paso 4:** Siguiendo a nivel de colección, en el apartado 'Variables' se podrá observar la definición de la URL base para realizar las solicitudes.
 ![Alt text](/images/image-6.png)
